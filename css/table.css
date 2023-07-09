@@ -1,0 +1,12 @@
+.data-table {
+    width: 60%;
+    border-collapse: collapse;
+    justify-content: center;
+}
+
+.data-table th,
+.data-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    
+}
